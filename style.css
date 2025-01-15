@@ -1,0 +1,25 @@
+.intro{
+  font-size: 13px;
+  text-align: center;
+}
+.image1{
+  width: 90%;
+  height: auto;
+  filter: drop-shadow( 1px 10px 20px rgba(0,64,0,0.5))
+}
+.btn1{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.heading{
+  font-size: 1.2rem;
+}
+.skip{
+ position: absolute;
+ top: 7px;
+ right: 12px;
+ font-size: 1rem;
+}
+.container{
+  position: relative;
+}
